@@ -1,3 +1,3 @@
-#  TO-DO LIST VERSION 2
+#  ToDo List App 
 Simple to-do list with database made with EJS templates 
 
